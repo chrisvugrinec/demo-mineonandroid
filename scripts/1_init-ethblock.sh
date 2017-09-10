@@ -1,5 +1,3 @@
-#!/bin/bash
-
 if [[ ! -d ~/eth-testnet ]]
 then
   mkdir ~/eth-testnet 
