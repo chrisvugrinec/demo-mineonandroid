@@ -4,4 +4,4 @@ then
 fi
 
 # init
-../lib/geth --datadir ~/eth-testnet init genesis.json
+lib/geth --datadir ~/eth-testnet init genesis.json
